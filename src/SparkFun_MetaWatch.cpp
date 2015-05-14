@@ -1,4 +1,4 @@
-/* SFE_MetaWatch.cpp
+/* SparkFun_MetaWatch.cpp
 	by: Jim Lindblom
 	    SparkFun Electronics
 	date: August 13, 2013
@@ -6,10 +6,12 @@
 	If you find it useful, and we meet some day, buy me a beer.
 	
 	This file has most of the code used to interface from Arduino to BlueSMiRF to MetaWatch.
+	
+	**Updated for Arduino 1.6.4 5/2015**
 */
 
 #include "Arduino.h"
-#include "SFE_MetaWatch.h"
+#include "SparkFun_MetaWatch.h"
 #include <SoftwareSerial.h>
 
 // Initialize Software Serial

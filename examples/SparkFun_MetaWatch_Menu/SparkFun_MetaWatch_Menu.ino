@@ -1,4 +1,4 @@
-/* SFE_MetaWatch Library Serial Menu Example
+/* SparkFun_MetaWatch Library Serial Menu Example
   by: Jim Lindblom
   SparkFun Electronics
   date: August 14, 2013
@@ -29,10 +29,12 @@
       time should be of the 24-hour variety.
     * v - VIBRATE: Whoo, good vibrations.
     * l and L - BACKLIGHT: Turn the BL off or on (for a few seconds)
+	
+	**Updated for Arduino 1.6.4 5/2015**
 */
 
 #include <SoftwareSerial.h>
-#include <SFE_MetaWatch.h>
+#include <SparkFun_MetaWatch.h>
 
 char metaWatchAddress[] = "0018342F9B56";
 unsigned long btBaudRate = 115200;

@@ -1,4 +1,4 @@
-/* SFE_MetaWatch_Example
+/* SparkFun_MetaWatch_Example
   by: Jim Lindblom
   SparkFun Electronics
   date: August 14, 2013
@@ -27,10 +27,12 @@
   backlight? Or maybe a button press on the Arduino should control
   the watch's vibration motor. Have fun! For help using the
   SFE_MetaWatch library, check out the readme included with it.
+  
+  **Updated for Arduino 1.6.4 5/2015**
 */
 
 #include <SoftwareSerial.h>
-#include <SFE_MetaWatch.h>
+#include <SparkFun_MetaWatch.h>
 
 char metaWatchAddress[] = "0018342F9B56"; // Watch BT address
 unsigned long btBaudRate = 115200; // BlueSMiRF baud rate

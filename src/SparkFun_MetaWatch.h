@@ -1,16 +1,18 @@
-/* SFE_MetaWatch.h
+/* SparkFun_MetaWatch.h
 	by: Jim Lindblom
 	    SparkFun Electronics
 	date: August 13, 2013
 	license: Beerware. Please use, reuse, and modify this code as you see fit.
 	If you find it useful, and we meet some day, buy me a beer.
 	
+	**Updated for Arduino 1.6.4 5/2015**
+	
 	TODO: Add a function to read light sensor
 	TODO: Add a function to draw a sprite
 */
 
-#ifndef SFE_MetaWatch_H
-#define SFE_MetaWatch_H
+#ifndef SparkFun_MetaWatch_H
+#define SparkFun_MetaWatch_H
 
 // The useful messages defined by the MetaWatch API
 // http://www.metawatch.org/assets/images/developers/MetaWatchRemoteMessageProtocol205.pdf
