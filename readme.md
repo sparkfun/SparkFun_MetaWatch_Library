@@ -1,6 +1,19 @@
 SparkFun MetaWatch Arduino Library
 ===================================
 
+_**NOTE:** The MetaWatch and BlueSMiRF (with the RN-41 and RN-42) has been retired from our catalog. Please check out some of these resources to see how other users are still hacking and improving on this version of the product._
+
+- [SparkFun Forum](https://forum.sparkfun.com/)
+- [Comments Here on GitHub](https://github.com/sparkfun/SparkFun_MetaWatch_Library/issues)
+
+<table class="table table-hover table-striped table-bordered">
+  <tr align="center">
+   <td><a href="https://learn.sparkfun.com/tutorials/metawatch-teardown-and-arduino-hookup"><img src="https://cdn.sparkfun.com/r/600-600/assets/5/0/d/3/9/520bb9f0757b7f930ca6616a.jpg"></a></td>
+  </tr>
+  <tr align="center">
+    <td><a href="https://learn.sparkfun.com/tutorials/metawatch-teardown-and-arduino-hookup">SparkFun RedBoard, BlueSMiRF, and MetaWatch</a></td>
+  </tr>
+</table>
 
 Use an Arduino/[BlueSMiRF](https://www.sparkfun.com/products/12577) combo to control the bluetooth-enabled [MetaWatch](https://www.sparkfun.com/products/12005).
 
